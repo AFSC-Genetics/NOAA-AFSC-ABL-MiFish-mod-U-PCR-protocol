@@ -120,15 +120,13 @@ pcr_method_additional: not applicable
 
 ## BACKGROUND
 
-This document describes the required protocol to conduct [insert name of the method/protocol].
-
 ### Summary
 
 This protocol describes steps for performing PCR for the 12S mitochondrial ribosomal RNA gene in vertebrates using eDNA. The primers (forward: MiFish-U-F_mod, reverse: MiFish-U-R) were first presented in Sales et al. 2019 (forward) and Miya et al. 2015 (reverse). The MiFish-U-F_mod primer used in this protocol has 1 basepair substition from the MiFish-U-F primer used in Miya et al. 2015, but is otherwise identical. The target amplicon size is 163 - 185 base pairs.
 
 This primer set targets vertebrates organisms (e.g., fishes, marine mammals, birds). Important note, this primer also amplifies non-target organisms including microbes and single-celled phytoplankton (e.g., proteobacteria and diatoms).
 
-The protocol presented here is intended as the first PCR of a two-step PCR next generation sequencing library preparation using Illumina Nextera Unique Dual Indices. Our written protocol does not include the second PCR step in which unique library-specific barcodes are attached to each round 1 PCR product.
+The protocol presented here is intended as the first PCR of a two-step PCR next generation sequencing library preparation using Illumina Nextera Unique Dual Indices. Use NOAA-AFSC-ABL-Barcode-PCR-Protocol (in progress) to perform the second PCR step in which unique library-specific barcodes are attached to each round 1 PCR product. 
 
 ### Method Description and Rationale
 
@@ -152,7 +150,7 @@ Molecular biology training (including, at a minimum, sterile technique, pipettin
 
 ### Time Needed to Execute the Procedure
 
-** PCR preparation and running the PCR protocol for a single 96-well plate takes 2.8 hours (170 minutes), of which 80 mins is the thermocycler run time. Additional plates can be run simultaneously without greatly increasing the time required.
+** PCR preparation and running the PCR protocol for a single 96-well plate takes 2.5 hours (150 minutes), of which XX mins is the thermocycler run time. Additional plates can be run simultaneously without greatly increasing the time required.
 
 ## EQUIPMENT
 
